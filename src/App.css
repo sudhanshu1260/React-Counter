@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.App h2{
+  margin-top: 60px;
+  border: 2px solid green;
+  color: brown;
+  width: fit-content;
+  margin-left: 45%;
+}
+.btn{
+  color: blue;
+}
+.btn:hover{
+  color: red;
+}
